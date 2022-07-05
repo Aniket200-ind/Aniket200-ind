@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket200-ind
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning in 12th std
+- 🌱 I’m currently pursuing BSc. IT course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail id:- aniketbotre007@gmail.com
 
