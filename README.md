@@ -23,7 +23,6 @@
 <a href="https://twitter.com/aniketbotre2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketbotre2604" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-botre-9608901b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-botre-9608901b8" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21140545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21140545" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nightowl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nightowl" height="30" width="40" /></a>
 <a href="https://medium.com/@aniketbotre007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aniketbotre007" height="30" width="40" /></a>
 </p>
 
