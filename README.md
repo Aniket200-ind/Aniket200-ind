@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Learning front-end frameworks and looking for some open-source projects.**
 
-- 🌱 I’m currently learning **Rust, React Native, Ruby on Rails**
+- 🌱 I’m currently learning **Rust, React Native, Backend Web Development**
 
 - 💬 Ask me about **JavaScript concepts, React**
 
 - 📫 How to reach me **aniketbotre007@gmail.com**
 
-- ⚡ Fun fact **I think I understand JavaScript**
+- ⚡ Fun fact **I think I understand JavaScript😜**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
