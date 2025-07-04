@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I think I understand JavaScript😜**
 
+- ⚔️ Web dev with the aim of Kratos and the vibes of Levi.
 
 
 ###
