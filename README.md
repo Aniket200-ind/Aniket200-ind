@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aniketbotre2604" target="blank"><img src="https://img.shields.io/twitter/follow/aniketbotre2604?logo=twitter&style=for-the-badge" alt="aniketbotre2604" /></a> </p>
 
-- 🔭 I’m currently working on **Learning front-end frameworks and looking for some open-source projects.**
+- 🔭 I’m currently **Learning front-end frameworks and looking for some open-source projects.**
 
 - 🌱 I’m currently learning **Rust, React Native, Backend Web Development**
 
